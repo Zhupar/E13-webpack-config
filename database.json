@@ -1,0 +1,10 @@
+{
+    "contacts": [
+        {"id": 1, "name": "Zhupar", "email": "zhupar@gmail.com", "phone-num": 123456789},
+        {"id": 2, "name": "Azat", "email": "azat@gmail.com", "phone-num": 147258369},
+        {"id": 2, "name": "Aimerey", "email": "aimerey@gmail.com", "phone-num": 326159487},
+        {"id": 2, "name": "Miras", "email": "miras@gmail.com", "phone-num": 369258147},
+        {"id": 2, "name": "Danial", "email": "danial@gmail.com", "phone-num": 124357689}
+        
+    ]
+  }
